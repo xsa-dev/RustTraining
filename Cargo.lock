@@ -3,5 +3,13 @@
 version = 4
 
 [[package]]
+name = "fuzzbuzz"
+version = "0.1.0"
+
+[[package]]
+name = "shape_area_calc"
+version = "0.1.0"
+
+[[package]]
 name = "xtask"
 version = "0.1.0"
